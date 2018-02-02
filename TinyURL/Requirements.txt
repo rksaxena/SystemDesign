@@ -1,0 +1,5 @@
+TinyURL requirements:
+1. TinyURL is a URL shortening service
+2. Web service that provides short aliases for redirection of long URLs
+3. Each URL can only be mapped to a unique alias
+4. Each alias can be mapped back to a unique URL easily
