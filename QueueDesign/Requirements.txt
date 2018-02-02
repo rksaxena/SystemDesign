@@ -1,0 +1,9 @@
+Queue Requirements:
+1. Highly Scalable Distributed Pub-Sub Model
+2. Logs retention with TTL
+3. Producers publish data to the topics of their choice
+4. Consumers can consume from the topics of their choice
+5. Reprocessing capability with consumer
+6. Message publishing order is maintained per producer
+7. Consumption order should be maintained.
+8. Fault tolerance
