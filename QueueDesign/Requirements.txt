@@ -1,5 +1,5 @@
 Queue Requirements:
-1. Highly Scalable Distributed Pub-Sub Model
+1. Highly Scalable Distributed Queing + Pub-Sub Model
 2. Logs retention with TTL
 3. Producers publish data to the topics of their choice
 4. Consumers can consume from the topics of their choice
